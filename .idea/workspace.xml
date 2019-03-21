@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3cbb0b6-99b3-4aac-89f6-de853b666f47" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/CachedReaderTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/CachedReaderTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/DocParserTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/DocParserTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/PhpParserTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/Common/Annotations/PhpParserTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/TestInit.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/doctrine/annotations/tests/Doctrine/Tests/TestInit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/other/build_phar.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/other/build_phar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/capicom.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/capicom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/dev_urandom.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/dev_urandom.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/libsodium.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/libsodium.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/libsodium_legacy.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/libsodium_legacy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/mcrypt.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/paragonie/random_compat/tests/specific/mcrypt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/testblog/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="a.tools" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="a.tools" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="a.tools" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="autotovarka_tools: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1586175994">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Vagrantfile" value="6" />
+          <entry key="action_provision" value="1" />
+          <entry key="action_set_name" value="1" />
+          <entry key="console" value="1" />
+          <entry key="creator_uid" value="1" />
+          <entry key="htaccess" value="5" />
+          <entry key="id" value="1" />
+          <entry key="index_uuid" value="1" />
+          <entry key="json" value="5" />
+          <entry key="order_status_transfer" value="1" />
+          <entry key="order_statuses_transfer" value="1" />
+          <entry key="php" value="20" />
+          <entry key="private_key" value="1" />
+          <entry key="sh" value="8" />
+          <entry key="sql" value="4" />
+          <entry key="status" value="1" />
+          <entry key="status_control_data" value="5" />
+          <entry key="status_rule" value="2" />
+          <entry key="symfony_requirements" value="1" />
+          <entry key="synced_folders" value="1" />
+          <entry key="twig" value="3" />
+          <entry key="user_pattern" value="1" />
+          <entry key="vagrant_cwd" value="1" />
+          <entry key="yml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Bash" value="8" />
+          <entry key="Database Element" value="11" />
+          <entry key="JSON" value="5" />
+          <entry key="PHP" value="22" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Scratch" value="4" />
+          <entry key="Twig" value="3" />
+          <entry key="YAML" value="18" />
+          <entry key="htaccess" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Vagrantfile" value="26" />
+          <entry key="htaccess" value="9" />
+          <entry key="json" value="11" />
+          <entry key="php" value="108" />
+          <entry key="sh" value="73" />
+          <entry key="sql" value="30" />
+          <entry key="yml" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Bash" value="73" />
+          <entry key="JSON" value="11" />
+          <entry key="PHP" value="108" />
+          <entry key="PLAIN_TEXT" value="26" />
+          <entry key="Scratch" value="30" />
+          <entry key="YAML" value="21" />
+          <entry key="htaccess" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/status_control_data">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/config.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="e#7#272#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>blog</find>
+      <find>kernel.root</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/testblog/web/app_dev.php" />
+        <option value="$PROJECT_DIR$/testblog/web/.htaccess" />
+        <option value="$PROJECT_DIR$/testblog/web/app.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/BlogBundle/Controller/PostController.php" />
+        <option value="$PROJECT_DIR$/src/BlogBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/Vagrantfile" />
+        <option value="$PROJECT_DIR$/web/config.php" />
+        <option value="$PROJECT_DIR$/web/app_dev.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e4378122-886e-44dc-916c-93926fc9d6d1/console_4.sql" />
+        <option value="$PROJECT_DIR$/.vagrant/provision.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/testblog/vendor/composer" />
+      <path value="$PROJECT_DIR$/testblog/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/testblog/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/testblog/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/testblog/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/testblog/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/testblog/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/annotations" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name=".vagrant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testblog" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wikipravo" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dev\testblog" />
+      <recent name="D:\dev\testblog\app\Resources\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3cbb0b6-99b3-4aac-89f6-de853b666f47" name="Default Changelist" comment="" />
+      <created>1552655986400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552655986400</updated>
+      <workItem from="1552655987924" duration="8962000" />
+      <workItem from="1552892327506" duration="3518000" />
+      <workItem from="1553065701709" duration="4584000" />
+      <workItem from="1553073592225" duration="20355000" />
+      <workItem from="1553097388793" duration="2592000" />
+      <workItem from="1553153890466" duration="8361000" />
+      <workItem from="1553164268775" duration="40000" />
+      <workItem from="1553167070019" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="48652000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1818792" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4966443" visible="true" weight="0.39716312" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5033557" side_tool="true" weight="0.43120566" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.19261745" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php" />
+    <entry file="file://$PROJECT_DIR$/app/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/synced_folders">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/creator_uid">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/machines/default/virtualbox/vagrant_cwd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="48" column="4" selection-start-line="48" selection-start-column="4" selection-end-line="48" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/console">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/symfony_requirements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config_dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Resources/config/services.yml" />
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/BlogBundle.php" />
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Resources/config/doctrine/Post.orm.yml" />
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Form/PostType.php" />
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Resources/config/routing/post.yml" />
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Entity/Post.php" />
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Resources/views/Default/index.html.twig" />
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Resources/config/routing.yml" />
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Controller/PostController.php" />
+    <entry file="file://$PROJECT_DIR$/src/BlogBundle/Controller/DefaultController.php" />
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/status">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/status_rule">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/user_pattern">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/order_status_transfer">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/order_statuses_transfer">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e4378122-886e-44dc-916c-93926fc9d6d1/console_4.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vagrant/provision.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="103" selection-start-line="103" selection-end-line="103" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#7#272#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e4378122-886e-44dc-916c-93926fc9d6d1/schema/autotovarka_tools/table/status_control_data">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

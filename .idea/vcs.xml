@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build-intl/php-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/doctrine/annotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/doctrine/lexer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/paragonie/random_compat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-ctype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-mbstring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-php56" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-php70" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/symfony/symfony" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testblog/vendor/twig/twig" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/doctrine/annotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/doctrine/lexer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/paragonie/random_compat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-php56" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-php70" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/symfony/polyfill-util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor/twig/twig" vcs="Git" />
+  </component>
+</project>

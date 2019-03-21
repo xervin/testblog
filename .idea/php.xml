@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/testblog/vendor/composer" />
+      <path value="$PROJECT_DIR$/testblog/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/testblog/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/testblog/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/testblog/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/testblog/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/testblog/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/testblog/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/testblog/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/testblog/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/testblog/vendor/doctrine/annotations" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>
